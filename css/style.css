@@ -1,0 +1,74 @@
+/*common css start*/
+.c_padd{
+	padding: 50px 0;
+}
+/*common css start*/
+
+/*counterup start*/
+.c_h2{
+	min-height: 50px;
+	background-color: red;
+	font-size: 35px;
+	font-style: italic;
+
+}
+
+/**/
+.box{
+	min-height: 100px;
+}
+
+/*wow start*/
+.wow_p{
+	font-size: 25px;
+	color: white;
+	font-style: italic;
+	text-align: center;
+
+}
+
+/*aos start*/
+
+.aos_img{
+	margin-bottom: 20px;
+}
+
+/*parallax start*/
+
+.parallax-window {
+	min-height: 500px;
+	background: transparent;
+}
+.plx-h2{
+	padding-top: 250px;
+	font-size: 50px;
+	font-style: italic;
+	color: white;
+}
+
+/*cruved text start*/
+#text1
+{
+    margin:           3.0em 0.0em;
+    overflow:         hidden;
+    font:             normal normal normal 2.0em/1.5 'Open Sans Light', sans-serif;
+    color:            #ffffff;
+    background-color: #3fafee;
+}
+
+/*slick start*/
+.wrapper{
+	margin: 50px 0;
+}
+.demo{
+	padding: 0 10px;
+ }
+
+/* ---- particles.js container ---- */
+
+#particles-js{
+  width: 100%;
+  height: 100%;
+  background-color: #b61924;
+  
+} 
